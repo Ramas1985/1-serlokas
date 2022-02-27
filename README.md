@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome. Thank y
 
 Site published at (https://github.com/Ramas1985/1-serlokas)
 
-Design: [Mergaite](https://github.com/Ramas1985/1-serlokas)
+Design: [Serlokas](https://github.com/Ramas1985/1-serlokas)
 
 ## Project features
 
