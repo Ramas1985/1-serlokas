@@ -9,9 +9,7 @@ Ramunas website project_
 
 This project is for educational porpuses only. Pull request are welcome. Thank you for your cooperation!
 
-Site published at (https://github.com/Ramas1985/1-serlokas)
-
-Design: [Serlokas](https://github.com/Ramas1985/1-serlokas)
+Site published at (https://ramas1985.github.io/1st-lesson-404/)
 
 ## Project features
 
